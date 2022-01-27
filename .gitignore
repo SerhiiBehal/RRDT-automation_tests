@@ -1,0 +1,16 @@
+venv
+venv/
+venv.bak/
+venv/*
+venv_3/
+
+#Compiled Python files
+*.pyc
+*.pyo
+
+#IDEA files
+.idea/*
+*.iml
+
+#Test result
+test_output/
